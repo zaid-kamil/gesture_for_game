@@ -1,0 +1,3 @@
+pgzero
+opencv-contrib-python
+mediapipe
